@@ -23,6 +23,7 @@
   <img align="center" alt="Allyson-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Allyson-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Allyson-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Allyson-Js" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
 </div>
   
   ##
