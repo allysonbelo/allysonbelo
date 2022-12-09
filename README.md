@@ -4,9 +4,8 @@
 
 
 
-- 🔭 Atualmente trabalho como freelancer front-end wordpess ...
+- 🔭 Atualmente trabalho como dev front-end wordpess ...
 - 🌱 Estou me aprofundando ainda mais no universo do front-end ...
-- 🙌 Procuro emprego como dev front-end jr.
 - 😄 Pronouns: (Ele/Dele)
 
 ##
@@ -24,6 +23,7 @@
   <img align="center" alt="Allyson-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Allyson-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Allyson-Js" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Allyson-Js" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg">
 </div>
   
   ##
