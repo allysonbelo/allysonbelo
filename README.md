@@ -14,22 +14,6 @@
 
 ###
 
-<h2 align="left">Featured Projects</h2>
-
-###
-
-<p align="left">https://seguroauto.org/<br><br>I developed the Auto Insurance website, a comprehensive portal for auto insurance. The website offers price comparisons, detailed information on different types of insurance, and tips for choosing the best plan.</p>
-
-###
-
-<p align="left">https://planodesaude.net/<br><br>I participated in the development of the Health Insurance website, which makes it easier to compare and purchase health insurance plans. The platform is intuitive and offers a wide range of options for users.</p>
-
-###
-
-<p align="left">https://www.smartia.com.br/<br><br>I contributed to the creation of the Smartia website, which specializes in comparing life, health, and auto insurance. The interface is user-friendly and the features allow for a fluid and efficient user experience.</p>
-
-###
-
 <h2 align="left">Techs</h2>
 
 ###
@@ -57,6 +41,22 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+<h2 align="left">Featured Projects</h2>
+
+###
+
+<p align="left">https://seguroauto.org/<br><br>I developed the Auto Insurance website, a comprehensive portal for auto insurance. The website offers price comparisons, detailed information on different types of insurance, and tips for choosing the best plan.</p>
+
+###
+
+<p align="left">https://planodesaude.net/<br><br>I participated in the development of the Health Insurance website, which makes it easier to compare and purchase health insurance plans. The platform is intuitive and offers a wide range of options for users.</p>
+
+###
+
+<p align="left">https://www.smartia.com.br/<br><br>I contributed to the creation of the Smartia website, which specializes in comparing life, health, and auto insurance. The interface is user-friendly and the features allow for a fluid and efficient user experience.</p>
 
 ###
 
